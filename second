@@ -1,0 +1,7 @@
+myVar = 1
+
+if type(myVar) == int:
+    print('myVar is an integer!')
+
+if type(myVar) != int:
+    print('myVar is NOT an integer!')
